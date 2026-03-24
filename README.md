@@ -1,4 +1,4 @@
-Customer Purchase Prediction: Data Wrangling and Classification for E-Commerce Analytics
+# Customer Purchase Prediction: Data Wrangling and Classification for E-Commerce Analytics
 
 ## Overview
 This project focuses on building a machine learning system to predict whether a customer is likely to make a purchase based on demographic and behavioral features.
