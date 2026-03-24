@@ -1,0 +1,26 @@
+🔹 Software Requirements
+Python 3.x
+Jupyter Notebook / VS Code / any Python IDE
+
+🔹 Libraries Used
+Install the following Python libraries before running the project:
+pandas → data handling and preprocessing
+numpy → numerical operations
+scikit-learn → machine learning models and evaluation
+matplotlib → basic data visualization
+joblib → saving and loading the trained model
+
+🔹 Dataset Requirements
+CSV file containing customer data with features like:
+Age
+AnnualIncome
+Gender
+NumberOfPurchases
+TimeSpentOnWebsite
+LoyaltyProgram
+DiscountsAvailed
+PurchaseStatus (target variable)
+
+🔹Optional (for testing/demo)
+Google Form (for collecting real-world input data)
+Excel (for storing and analyzing predictions)
