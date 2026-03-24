@@ -10,6 +10,7 @@ To demonstrate how machine learning techniques can be applied to e-commerce anal
 ## Dataset
 The dataset includes attributes such as age, annual income, number of previous purchases, time spent on the website, discounts availed, and loyalty program membership. Data wrangling techniques were applied to clean and preprocess the dataset, including handling missing values, encoding categorical variables, and aligning features for modeling.
 
+## Algorithms 
 Multiple classification algorithms were explored to analyze and compare performance, including:
 Logistic Regression
 Decision Tree Classifier
@@ -20,7 +21,7 @@ Among these, the Random Forest model provided strong performance due to its abil
 
 To validate the model, real-world data was collected through a Google Form, where participants provided their details. The model was then used to predict their purchase behavior. The results provided insights into model behavior, including a tendency to predict “no purchase” in several cases due to feature influence and classification thresholds.
 
-🔍 Key Features
+## Key Features
 Data cleaning and preprocessing
 Feature engineering based on customer behavior
 Implementation and comparison of multiple classification algorithms
